@@ -170,10 +170,12 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
+    <Content Include="App_Data\ClientInfo.sql" />
     <Content Include="App_Data\Database_AASKTest.mdf" />
     <Content Include="App_Data\Database_AASKTest_log.ldf">
       <DependentUpon>Database_AASKTest.mdf</DependentUpon>
     </Content>
+    <Content Include="App_Data\FamilyInfo.sql" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />

@@ -61,6 +61,5 @@ C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\WebFo
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\WebFormApplication\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\WebFormApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\WebFormApplication\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\WebFormApplication\obj\Debug\WebFormApplication.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\WebFormApplication\obj\Debug\WebFormApplication.dll
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\WebFormApplication\obj\Debug\WebFormApplication.pdb

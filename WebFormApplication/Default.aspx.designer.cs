@@ -13,15 +13,6 @@ namespace WebFormApplication {
     public partial class Default {
         
         /// <summary>
-        /// lblMyName control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblMyName;
-        
-        /// <summary>
         /// grdSortedResults control.
         /// </summary>
         /// <remarks>
@@ -29,6 +20,15 @@ namespace WebFormApplication {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView grdSortedResults;
+        
+        /// <summary>
+        /// lblMyName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMyName;
         
         /// <summary>
         /// ITTestConnectionString control.

@@ -1,6 +1,5 @@
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\MVCWebApplication.Tests\bin\Debug\MVCWebApplication.Tests.dll
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\MVCWebApplication.Tests\bin\Debug\MVCWebApplication.Tests.pdb
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\MVCWebApplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\MVCWebApplication.Tests\obj\Debug\MVCWebApplication.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\MVCWebApplication.Tests\obj\Debug\MVCWebApplication.Tests.dll
 C:\Users\Owner\Documents\Projects\Interview Codes\AASK\Repo\AASK-Interview\MVCWebApplication.Tests\obj\Debug\MVCWebApplication.Tests.pdb
